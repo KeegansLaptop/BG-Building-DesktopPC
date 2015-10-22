@@ -71,3 +71,9 @@ Do contact the manufacture
 Do not try to modify them yourself
 
 </body>
+body {
+background-color: red;
+}
+/**
+ * The Builders Guide to Building A Desktop PC
+ */
